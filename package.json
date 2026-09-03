@@ -1,0 +1,15 @@
+{
+  "name": "discord-ai-rooms-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for managing private AI rooms and categories",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  },
+  "engines": {
+    "node": ">=16.9.0"
+  }
+}
